@@ -11,5 +11,7 @@ The *death limit* and *birth limit* parameters are changed based on the type of 
 ![maps](/4maps.png)<br/>
 *Fig. 1: The four types of maps used for simulation testing.*
 
-![maps](/buildmap.png)
+![maps](/buildmap.png)<br/>
 *Fig. 2: From left to right, we see the map improved with iterations based upon The Game of Life to produce a cave-like map.  The last map on the right is the final map used for testing with all islands of free cells not neighboring the main free cave cells removed to allow traversal among all free cells.*
+<br/><br/>
+ [1] M. Gardner, “Mathematical games-the fantastic combina-tions  of  john  conway’s  new  solitaire  game,  life,  1970,”Scientific American, October, pp. 120–123.
